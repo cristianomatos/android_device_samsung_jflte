@@ -26,4 +26,7 @@
          The default is false. -->
     <bool name="config_lidControlsSleep">true</bool>
 
+    <!-- Hardware keys enable/disable -->
+    <bool name="config_hwKeysOnNavBar">true</bool>
+
 </resources>
